@@ -9,4 +9,9 @@ Warning! The app won't work on your computer because all the connectionstrings p
 
 # Interface
 
-<img src="ss1.png" width="auto" height="300px" />
+<img src="ss1.png" width="auto" height="400px" />
+<img src="ss2.png" width="auto" height="400px" />
+<img src="ss3.png" width="auto" height="400px" />
+<img src="ss4.png" width="auto" height="400px" />
+<img src="ss5.png" width="auto" height="400px" />
+There is also a timetable but at the moment I encountered a bug and only the first week of a month is displayed correctly. I will fix the bug and upload a photo of it.
