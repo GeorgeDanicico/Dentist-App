@@ -8,3 +8,5 @@ There is also an "administrator account" that can be accesed using the username 
 Warning! The app won't work on your computer because all the connectionstrings point to my local database. If you want to run the app you have to change all the connectionstrings in the program. I am sorry for the bad looking code, but in high school I didn't pay attention to how to write clean code.
 
 # Interface
+
+<img src="ss1.png" width="auto" height="300px" />
