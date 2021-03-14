@@ -121,7 +121,7 @@
             this.lblMonthAndYear.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMonthAndYear.Location = new System.Drawing.Point(31, 42);
             this.lblMonthAndYear.Name = "lblMonthAndYear";
-            this.lblMonthAndYear.Size = new System.Drawing.Size(176, 51);
+            this.lblMonthAndYear.Size = new System.Drawing.Size(141, 39);
             this.lblMonthAndYear.TabIndex = 0;
             this.lblMonthAndYear.Text = "January";
             // 
@@ -221,10 +221,9 @@
             // flDays
             // 
             this.flDays.AutoScroll = true;
-            this.flDays.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flDays.Location = new System.Drawing.Point(0, 159);
             this.flDays.Name = "flDays";
-            this.flDays.Size = new System.Drawing.Size(1227, 648);
+            this.flDays.Size = new System.Drawing.Size(1264, 648);
             this.flDays.TabIndex = 3;
             // 
             // AppointmentManager
