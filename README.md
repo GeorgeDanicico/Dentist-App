@@ -14,4 +14,5 @@ Warning! The app won't work on your computer because all the connectionstrings p
 <img src="ss3.png" width="auto" height="400px" />
 <img src="ss4.png" width="auto" height="400px" />
 <img src="ss5.png" width="auto" height="400px" />
-There is also a timetable but at the moment I encountered a bug and only the first week of a month is displayed correctly. I will fix the bug and upload a photo of it.
+There is also a timetable where the doctor can schedule his pacients.
+<img src="ss6.png" width="auto" height="400px" />
